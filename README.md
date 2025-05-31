@@ -13,6 +13,7 @@ All diagrams are available as vector-based `.pdf` files, which preserve high res
 - `human-evolution/`: Diagrams of human evolutionary history and processes.
 - `introgression/`: Diagrams detailing the instantaneous unidirectional admixture model.
 - `muc19/`: Diagrams from [Villanea and Peede et al., 2024](https://doi.org/10.1101/2023.09.25.559202).
+- `smc-review/`: Diagrams from Peede et al., 2025.
 
 ## Usage
 
